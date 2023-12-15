@@ -86,7 +86,7 @@ dataFimEntry.pack()
 
 opcoes = [
     "E-PROC JF-RJ", "E-PROC TRF2", "E-PROC JF-PR", "E-PROC JF-RS", "E-PROC JF-SC",
-    "E-PROC TRF4", "E-PROC TNU","E-PROC TNU 2", "E-PROC TJ-SC 1", "E-PROC TJ-SC 2", "E-PROC TJ-TO 1", "E-PROC TJ-TO 2"
+    "E-PROC TRF4", "E-PROC TNU", "E-PROC TNU 2", "E-PROC TJ-SC 1", "E-PROC TJ-SC 2", "E-PROC TJ-TO 1", "E-PROC TJ-TO 2"
 ]
 
 opcaoSelecionada = tk.StringVar(root)
